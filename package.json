@@ -1,0 +1,29 @@
+{
+  "name": "synchronous-fetch",
+  "version": "1.0.0",
+  "description": "Super simple synchronous fetch api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/synchronous-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "sync",
+    "synchronous",
+    "web",
+    "http"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/synchronous-fetch/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/synchronous-fetch#readme",
+  "dependencies": {
+    "sync-request": "^6.1.0"
+  }
+}
